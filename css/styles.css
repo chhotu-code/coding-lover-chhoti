@@ -1022,6 +1022,6 @@ margin-top: -5px;
 
 @media (min-width: 425px) {
   .header--bg{
-    backgroung:none;
+    background-image:none;
   }
 }
