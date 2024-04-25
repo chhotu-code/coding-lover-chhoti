@@ -1020,8 +1020,13 @@ margin-top: -5px;
   color: black;
 }
 
-@media (max-width: 500px) {
+/* @media (max-width: 500px) {
   .header--bg{
     background-image:none;
+  }
+} */
+@media only screen and (max-width: 600px) {
+   .header--bg {
+    background-: lightblue;
   }
 }
