@@ -1027,6 +1027,6 @@ margin-top: -5px;
 } */
 @media only screen and (max-width: 600px) {
    .header--bg {
-    background: #0c0c0d;
+    background-color: #0c0c0d;
   }
 }
