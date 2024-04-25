@@ -87,8 +87,8 @@ html,body {
   z-index: 1;
 }
 @media only screen and (max-width: 600px) {
-   .header--bg {
-    background: black ;
+   .header--bg{
+    background: black! ;
 	
   }
 }
